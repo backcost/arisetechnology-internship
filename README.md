@@ -1,7 +1,7 @@
 # Teste Técnico de Estágio 2023/2
 **Vaga de Estágio para Desenvolvedor de Software**
 <br />
-**Prazo Final de entrega: 07/10/2023**
+**Prazo Final de entrega: 06/10/2023**
 
 ## **Descrição:**
 
