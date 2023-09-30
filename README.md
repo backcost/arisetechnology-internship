@@ -13,7 +13,7 @@ Exemplo: [Demo](https://teste-site-de-receitas.vercel.app/)
 ## Requisitos
 
 - O site deve ser implementado em **ReactJS**;
-- O código fonte deve ser disponibilizado no **github**;
+- O código fonte deve ser disponibilizado no **Github**;
 - O site deve ser **hospedado** em algum serviço de *hosting* como Github Pages, Netlify, Vercel, etc.
 
 ## Diferenciais
