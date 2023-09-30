@@ -18,7 +18,7 @@ Exemplo: [Demo](https://teste-site-de-receitas.vercel.app/)
 
 ## Diferenciais
 - TypeScript;
-- Tailwindcss;
+- TailwindCSS;
 - Vite.
 
 ## Importante
